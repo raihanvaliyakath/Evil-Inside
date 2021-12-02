@@ -2,18 +2,15 @@
   <img src="PANDITHAN/Evil-Inside.jpeg" alt="Evil-Inside Logo">
 </p>
 <h1 align="center">
-  <b>Evil-Inside</b>
-</h1>
-
-DEMO BOT - [Evil-Inside](https://telegram.dog/Evil_Inside_robot)
+  <b>Evil-Inside
  
 
 Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both amazing modules
 
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/raihanvaliyakath" height="33px" /></h3>
 <p align="center">
-<a href="https://telegram.dog/PANDITHAN_SIR"><img alt="Telegram" src="https://img.shields.io/badge/𝙿𝚁𝙾𝙵𝙸𝙻𝙴-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.dog/M_STER_TECH"><img alt="Telegram" src="https://img.shields.io/badge/𝙲𝙷𝙰𝙽𝙽𝙴𝙻-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/RAIHAN_TG"><img alt="Telegram" src="https://img.shields.io/badge/𝙿𝚁𝙾𝙵𝙸𝙻𝙴-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/MALAYALI_DUDE"><img alt="Telegram" src="https://img.shields.io/badge/𝙲𝙷𝙰𝙽𝙽𝙴𝙻-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
@@ -109,11 +106,9 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both 
 - `WHITELIST_USERS` : A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.
 
 # 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
-- [Thanks To Me ](https://github.com/PANDITHAN)
-- Thanks To [Muhammed](https://github.com/PR0FESS0R-99)
-- Thanks To [Lallu](https://github.com/Lallu-lallus) 
-- Thanks To [CLaY995](https://github.com/CLaY9950) 
-- Thanks To [ViruZs](https://github.com/TGExplore) 
+
+- Thanks To Me [RAIHAN](https://github.com/raihanvaliyakath)
+
 
 
 
